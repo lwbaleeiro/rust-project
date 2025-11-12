@@ -11,7 +11,7 @@ Este documento é nosso roadmap dinâmico para aprender Rust. Ele será atualiza
 ## 📈 Progresso Geral
 
 -   **Total de tópicos:** 15 (inicial)
--   **Concluídos:** 1 (6%)
+-   **Concluídos:** 2 (13%)
 -   **Em progresso:** 0
 -   **Para revisar:** 0
 -   **Última atualização:** 2025-11-12
@@ -32,11 +32,14 @@ Este documento é nosso roadmap dinâmico para aprender Rust. Ele será atualiza
     -   **Recursos adicionais consultados:** N/A
     -   **Próximos passos sugeridos:** N/A
 
--   [ ] **Tópico 1.2: Variáveis, Mutabilidade e Tipos de Dados**
-    -   **Status:** 🔵 Não iniciado
+-   [x] **Tópico 1.2: Variáveis, Mutabilidade e Tipos de Dados**
+    -   **Status:** 🟢 Concluído
     -   **Conceitos-chave:** `let`, `mut`, shadowing, tipos escalares (inteiros, floats, booleanos, caracteres), tipos compostos (tuplas, arrays).
-    -   **Exercícios realizados:** N/A
-    -   **Notas:** N/A
+    -   **Conexões com conhecimento prévio (Java/Python):** Variáveis, tipos, imutabilidade vs mutabilidade.
+    -   **Exercícios/desafios completados:** Distinção entre mut e shadowing; escolha de tupla/array para cenários.
+    -   **Dificuldades encontradas e como foram superadas:** Nuance de mut vs shadowing em manipulação de String.
+    -   **Recursos adicionais consultados:** N/A
+    -   **Próximos passos sugeridos:** N/A
 
 -   [ ] **Tópico 1.3: Funções e Controle de Fluxo**
     -   **Status:** 🔵 Não iniciado
@@ -110,3 +113,4 @@ Este documento é nosso roadmap dinâmico para aprender Rust. Ele será atualiza
 
 *   **[2025-11-12]** 🚀 Início da jornada e criação do plano de estudos!
 *   **[2025-11-12]** ✅ Tópico 1.1: Configuração e "Hello, World!" concluído!
+*   **[2025-11-12]** ✅ Tópico 1.2: Variáveis, Mutabilidade e Tipos de Dados concluído!

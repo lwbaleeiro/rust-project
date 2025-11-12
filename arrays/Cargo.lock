@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "variables_mutability"
+name = "arrays"
 version = "0.1.0"
