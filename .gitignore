@@ -1,1 +1,17 @@
-/target
+# Rust Cargo build directory
+*/target/
+
+# Cargo lock file (optional, depends on project setup)
+# If you are building a library that will be used as a dependency,
+# you might want to commit Cargo.lock to ensure reproducible builds for downstream users.
+# For applications, it's generally recommended to commit Cargo.lock.
+# Cargo.lock
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files (add as needed)
+.vscode/
+.idea/
+*.swp
