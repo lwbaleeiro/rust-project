@@ -11,7 +11,7 @@ Este documento é nosso roadmap dinâmico para aprender Rust. Ele será atualiza
 ## 📈 Progresso Geral
 
 -   **Total de tópicos:** 15 (inicial)
--   **Concluídos:** 0 (0%)
+-   **Concluídos:** 1 (6%)
 -   **Em progresso:** 0
 -   **Para revisar:** 0
 -   **Última atualização:** 2025-11-12
@@ -23,11 +23,14 @@ Este documento é nosso roadmap dinâmico para aprender Rust. Ele será atualiza
 
 ### Fase 1: Fundamentos Essenciais de Rust
 
--   [ ] **Tópico 1.1: Configuração e "Hello, World!"**
-    -   **Status:** 🔵 Não iniciado
+-   [x] **Tópico 1.1: Configuração e "Hello, World!"**
+    -   **Status:** 🟢 Concluído
     -   **Conceitos-chave:** Instalar Rust (rustup), usar o Cargo (gerenciador de pacotes e build tool), compilar e executar um programa simples.
-    -   **Exercícios realizados:** N/A
-    -   **Notas:** N/A
+    -   **Conexões com conhecimento prévio (Java/Python):** N/A
+    -   **Exercícios/desafios completados:** Criar e executar "Hello, World!" com Cargo.
+    -   **Dificuldades encontradas e como foram superadas:** N/A
+    -   **Recursos adicionais consultados:** N/A
+    -   **Próximos passos sugeridos:** N/A
 
 -   [ ] **Tópico 1.2: Variáveis, Mutabilidade e Tipos de Dados**
     -   **Status:** 🔵 Não iniciado
@@ -106,3 +109,4 @@ Este documento é nosso roadmap dinâmico para aprender Rust. Ele será atualiza
 ## 🏆 Conquistas e Milestones
 
 *   **[2025-11-12]** 🚀 Início da jornada e criação do plano de estudos!
+*   **[2025-11-12]** ✅ Tópico 1.1: Configuração e "Hello, World!" concluído!
